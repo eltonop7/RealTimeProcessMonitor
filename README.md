@@ -7,7 +7,7 @@
 
 A Python-based system process monitoring tool with GUI interface, featuring real-time process tracking, resource monitoring, and process management capabilities.
 
-#![Application Screenshot](screenshot.png) *(Replace with actual screenshot)*
+
 
 ## Features
 
@@ -27,4 +27,4 @@ A Python-based system process monitoring tool with GUI interface, featuring real
 
 2. **Install dependencies**:
    ```bash
-   pip install -r requirements.txt
+   pip install psutil
