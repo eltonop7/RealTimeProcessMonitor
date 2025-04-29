@@ -3,7 +3,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/process-monitor)
+![GitHub last commit](https://img.shields.io/github/last-commit/eltonop7/RealTimeProcessMonitor)
 
 A Python-based system process monitoring tool with GUI interface, featuring real-time process tracking, resource monitoring, and process management capabilities.
 
