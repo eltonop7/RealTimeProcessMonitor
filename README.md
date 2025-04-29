@@ -9,7 +9,7 @@ A Python-based system process monitoring tool with GUI interface, featuring real
 
 
 
-<b>Note:Finalapp.py is the final fully working code.<b>
+<b>Note: Finalapp.py is the final fully working app.<b>
 
 
 
