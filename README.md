@@ -6,6 +6,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/eltonop7/RealTimeProcessMonitor)
 
 A Python-based system process monitoring tool with GUI interface, featuring real-time process tracking, resource monitoring, and process management capabilities.
+Note:Finalapp.py is the final fully working code.
 
 
 
