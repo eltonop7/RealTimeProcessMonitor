@@ -18,7 +18,7 @@ A Python-based system process monitoring tool with GUI interface, featuring real
 - 📈 System resource monitoring (CPU/Memory)
 - 🖥️ Responsive GUI with sortable columns
 - 🔄 Revision history showing progressive development
-
+- 📊 Real-time graph with CPU and Memory usage
 ## Installation
 
 1. **Prerequisites**:
@@ -27,4 +27,6 @@ A Python-based system process monitoring tool with GUI interface, featuring real
 
 2. **Install dependencies**:
    ```bash
+   pip install tk
    pip install psutil
+   pip install matplotlib
